@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>0907班汪鑫的自我简介</title>
+	<link rel="icon" type="image/x-icon" href="img/me.ico">
+	<style type="text/css">
+	 	h1{
+			text-align:center;
+		}
+		h2{
+		    text-indent:64px;
+			font-size:16px;
+			line-height:32px; 
+			<!--text-align:center;color: green;-->
+		}
+		p {
+		    text-indent:32px;
+			font-size:16px;
+			line-height:32px; 
+		}
+	</style>
+</head>
+
+<body>
+	<h1>个人简介</h1>
+	<img src="img/zhengjian.jpg" alt="看不到就算啦！" align="right" title="浅p过的证件照一张" width="100px" height="140px"  />
+	<p>浅浅的一个目录:</p>
+	<a href="#one"><p>&nbsp;&#160;&nbsp;&#160; 1.Some facts about me! &nbsp;&#160;&nbsp;&#160; </p></a>
+	<a href="#two"><p>&emsp; 2.My interest! &emsp; </p></a>
+	<a href="#thr"><p>&ensp;&#8194; 3.About future.&#8194;&ensp; </p></a><br>
+	<h2 id="one"> Some facts about me!</h2>
+	<ul>
+		<li>used to be an oier（初二时候搞过信竞，拿了个普及省一）</li>
+		<li>love coding!（选择本专业正是因此）</li>
+		<li>喜欢创造东西的感觉，特别是自己完成的，会很兴奋，很有成就感</li>
+		<li>来自山东青岛，美丽的海滨城市~</li>
+	</ul><br>
+	<img src="img/1.jpg" alt="看不到就算啦！" align="right" title="最爱的kpop女团" width="400px" height="268px"  />
+    <h2 id="two"> My interest!</h2>
+	<ul>
+		<li>kpop!!!!（超爱美女！！）</li>
+		<li>movies & binge-watching（最爱悬疑推理，爱的包括不限于漫威、韩剧、大片好片）</li>
+		<li>sports（喜欢打羽毛球！！） & running </li>
+		<li>无痛追星（颜狗，墙头到处是，塌房我就换人  ：）  ）</li>
+	</ul><br>
+	<h2 id="thr"> About future</h2>
+	<ul>
+		<li>目前的“小”目标当然是能够加入焦糖工作室咯~~</li>
+		<li>希望大一大二能够好好的提升自己的技术，为未来做出准备~</li>
+	</ul><br>
+
+</body>
+
+</html>
